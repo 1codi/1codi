@@ -1,4 +1,4 @@
-- Hi, I’m @1codi
+- Hi, I’m 1codi
 - I'm from China
 - I love Python.
 - I'm a Github newbie, please advise!
