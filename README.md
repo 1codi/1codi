@@ -1,5 +1,4 @@
 # 自我介绍
-# Introduce yourself
 
 - 你好！我是**凋风**。
 - 我来自中国。
@@ -8,6 +7,8 @@
 - 我的B站个人空间：[凋风的B站个人空间](https://space.bilibili.com/3493260483889303?spm_id_from=333.1007.0.0)
 
 ---
+
+# Introduce yourself
 
 - Hello! I’m **WitherStorm**.
 - I'm from China.
